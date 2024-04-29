@@ -1,6 +1,4 @@
 Test Cases,TEST CASE ID,Sample Summary
-Security Testing,,
-  Authentication Testing,,
-    Authentication testing - Sign Up with Username/Password,SEC-0001,Verify user can sign up with username and password.
-    Authentication testing - Log in with Username/Password,SEC-0002,Verify user can log in with username and password.
-    Authentication testing - Verify Email,SEC-0003,Verify user can log in with gmail.
+Inventory Testing,,
+Inspection Testing,,
+Schedule Testing,,
