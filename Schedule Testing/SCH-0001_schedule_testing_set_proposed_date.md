@@ -20,7 +20,7 @@ Scenario 1
  |  10 |  Choose and click a day from the calendar.    | Verify that the day is marked.  |
  |  11 |  Click the `Remarks` textfield.    | Verify that you can type in the field.  |
  |  12 |  Write a statement in the textfield   | Verify that you are able to see your statement.  |
- |  13 |  Click the `save` button.   | Verify that the schedule is saved in the database, and actual button is active.  | 
+ |  13 |  Click the `save` button.   | Verify that the schedule is saved in the database, and `actual` button is active.  | 
 
 **Post-conditions:**  
 
