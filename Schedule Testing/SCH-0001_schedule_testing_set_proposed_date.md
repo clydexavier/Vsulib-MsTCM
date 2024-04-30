@@ -8,7 +8,7 @@ Scenario 1
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
+ |  1 |   Click Proposed Date button   | Verify that ...   | 
  |  2 |      | Verify that ...   | 
  |  3 |      | Verify that ...   |  
 
