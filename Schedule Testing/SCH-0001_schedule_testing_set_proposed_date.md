@@ -18,8 +18,7 @@ Scenario 1
  |  8 |  Click the `year` drop-down button and choose a year.   | Verify that multiple years are shown, and chosen year is displayed.   |
  |  9 |  Click the `month` drop-down button and choose a month.    | Verify that Jan to Dec months are shown, and chosen month is displayed.  | 
  |  10 |  Choose and click a day from the calendar.    | Verify that the day is marked.  | 
- |  11 |  Write down the remarks under `Remarks` text field.   | Verify that your statement is shown.  |
- |  12 |  Click the `save` button.   | Verify that the schedule is saved in the database, and actual button is active.  | 
+ |  11 |  Click the `save` button.   | Verify that the schedule is saved in the database, and actual button is active.  | 
 
 **Post-conditions:**  
 
