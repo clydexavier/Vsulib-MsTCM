@@ -1,6 +1,6 @@
 ## **INV-0005:** Inventory Testing - Edit Area  
 
-> **Summary:** Verify that admin user successfully edited an area.  <br>
+> **Summary:** Verify that admin user successfully modified and displayed an area.  <br>
 
 **Preconditions:** _None_  
 

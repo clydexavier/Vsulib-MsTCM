@@ -1,6 +1,6 @@
 ## **INV-0014:** Inventory Testing - Edit Parts  
 
-> **Summary:** Verify that admin user successfully edited a parts.  <br>
+> **Summary:** Verify that admin user successfully modified and displayed a parts.  <br>
 
 **Preconditions:** _None_  
 

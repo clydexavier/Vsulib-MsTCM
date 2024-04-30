@@ -1,6 +1,6 @@
 ## **INV-0002:** Inventory Testing - Edit Floor  
 
-> **Summary:** Verify that admin user successfully edited a floor.  <br>
+> **Summary:** Verify that admin user successfully modified and displayed a floor.  <br>
 
 **Preconditions:** _None_  
 

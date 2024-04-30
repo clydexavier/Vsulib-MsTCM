@@ -1,6 +1,6 @@
 ## **INV-0011:** Inventory Testing - Edit Specs  
 
-> **Summary:** Verify that admin user successfully edited a specs.  <br>
+> **Summary:** Verify that admin user successfully modified and displayed a specs.  <br>
 
 **Preconditions:** _None_  
 

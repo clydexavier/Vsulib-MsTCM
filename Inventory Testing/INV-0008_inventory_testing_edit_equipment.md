@@ -1,6 +1,6 @@
 ## **INV-0008:** Inventory Testing - Edit Equipment  
 
-> **Summary:** Verify that admin user successfully edited an equipment.  <br>
+> **Summary:** Verify that admin user successfully modified and displayed an equipment.  <br>
 
 **Preconditions:** _None_  
 
