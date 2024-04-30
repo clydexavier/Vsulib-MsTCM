@@ -16,10 +16,16 @@ Inventory Testing - Add Parts,INV-0013,Verify that admin user successfully added
 Inventory Testing - Edit Parts,INV-0014,Verify that admin user successfully modified and displayed a parts.
 Inventory Testing - Delete Parts,INV-0015,Verify that admin user successfully deleted a parts.
 Inspection Testing,,
-Inspection Testing,INS-0001,Verify that floor is saved and displayed succesfully.
-Inspection Testing,INS-0002,Verify that area is saved and displayed succesfully.
-Inspection Testing,INS-0003,Verify that equipment is saved and displayed succesfully.
-Inspection Testing,INS-0004,Verify that parts is saved and displayed succesfully.
-Inspection Testing,INS-0005,Verify that admin user successfully modified and displayed equipment status.
-Inspection Testing,INS-0006,Verify that admin user successfully modified and displayed parts status.
+Inspection Testing - Display Floor,INS-0001,Verify that floor is saved and displayed succesfully.
+Inspection Testing - Display Area,INS-0002,Verify that area is saved and displayed succesfully.
+Inspection Testing - Display Equipment,INS-0003,Verify that equipment is saved and displayed succesfully.
+Inspection Testing - Display Parts,INS-0004,Verify that parts is saved and displayed succesfully.
+Inspection Testing - Edit Equipment Status,INS-0005,Verify that admin user successfully modified and displayed equipment status.
+Inspection Testing - Edit Parts Status,INS-0006,Verify that admin user successfully modified and displayed parts status.
 Schedule Testing,,
+Schedule Testing - Set Proposed Date,SCH-0001,Verify that set schedule is displayed.
+Schedule Testing - Set Remarks,SCH-0002,Verify that set remarks is displayed.
+Schedule Testing - Set Actual Date,SCH-0003,Verify that actual schedule is displayed.
+Schedule Testing - Set Remarks,SCH-0004,Verify that after remarks is displayed.
+Schedule Testing - Add History,SCH-0005,Verify that equipment is sucessfully added in history.
+Schedule Testing - Remove Maintenance,SCH-0006,Verify that equipment is removed in sucessfully maintenance.
