@@ -17,8 +17,10 @@ Scenario 1
  |  7 |  Click the `proposed` button.   | Verify that the `proposed` button turned to yellow (initially yellow).   |  
  |  8 |  Click the `year` drop-down button and choose a year.   | Verify that multiple years are shown, and chosen year is displayed.   |
  |  9 |  Click the `month` drop-down button and choose a month.    | Verify that Jan to Dec months are shown, and chosen month is displayed.  | 
- |  10 |  Choose and click a day from the calendar.    | Verify that the day is marked.  | 
- |  11 |  Click the `save` button.   | Verify that the schedule is saved in the database, and actual button is active.  | 
+ |  10 |  Choose and click a day from the calendar.    | Verify that the day is marked.  |
+ |  11 |  Click the `Remarks` textfield.    | Verify that you can type in the field.  |
+ |  12 |  Write a statement in the textfield   | Verify that you are able to see your statement.  |
+ |  13 |  Click the `save` button.   | Verify that the schedule is saved in the database, and actual button is active.  | 
 
 **Post-conditions:**  
 
