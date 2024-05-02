@@ -14,7 +14,7 @@ Scenario 1
  |  4 |  Choose and click a floor entity.  | Verify that inspection floor Page is shown.  |
  |  5 |  Choose and click an area entity.  | Verify that the equipment that needs to be inspect under that area is shown.  |
  |  6 |  Click the parts button of the specific equipment.  | Verify that inspection parts page is shown.  |
- |  7 |  Click the edit button of the specifi displayed equipment parts.  | Verify that the dropdown button is shown.  |
+ |  7 |  Click the edit button of the specific displayed equipment parts.  | Verify that the dropdown button is shown.  |
  |  8 |  Click and select the status of the equipment parts.  | Verify that the selected status is displayed. |
  |  9 |  Click the save button. | Verify that the equipment part status is changed and the status counter is displayed. |
  
