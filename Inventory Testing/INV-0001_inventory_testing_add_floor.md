@@ -17,6 +17,6 @@ Scenario 1
 
 **Post-conditions:**  
 
- - The floor is saved and displaed
+ - The floor is saved and displayed
 
 
