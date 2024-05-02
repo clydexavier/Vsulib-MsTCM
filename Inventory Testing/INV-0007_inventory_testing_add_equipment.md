@@ -11,7 +11,7 @@ Scenario 1
  |  1 |  Visit the web-app.    | Verify that login page is shown.  | 
  |  2 |  Log-in using your admin account.   | Verify that inventory page or inspection page is shown.   | 
  |  3 |  In the sidebar, click `Inventory` menu item.   | Verify that invetory page is shown.   |
- |  4 |  Click the `Floor` that you want to add area with.   | Verify that floor page  is  shown.   |  
+ |  4 |  Click the `Floor` that you want to add equipment with.   | Verify that floor page  is  shown.   |  
  |  5 |  Click the `Area` that you want to add equipment with.   | Verify that area page  is  shown.   |
  |  6 |  Click the `Add Equipment ` button.   | Verify that the `Add Equipment` modal is shown.   |  
  |  7 | Click the `Equipment Name` text field   | Verify that you can input the equipment name.   |  
