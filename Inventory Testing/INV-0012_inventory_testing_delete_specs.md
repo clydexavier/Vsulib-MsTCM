@@ -19,4 +19,4 @@ Scenario 1
  
 **Post-conditions:**  
 
- -  - The specs is deleted and no longer displayed
+ - The specs is deleted and no longer displayed
