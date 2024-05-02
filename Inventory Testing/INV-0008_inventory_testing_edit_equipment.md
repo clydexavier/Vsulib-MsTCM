@@ -2,7 +2,7 @@
 
 > **Summary:** Verify that admin user successfully modified and displayed an equipment.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:**  An admin user is logged in in the system.  
 
 Scenario 1 
 
