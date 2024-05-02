@@ -14,8 +14,9 @@ Scenario 1
  |  4 |  Click the `Floor` that you want to add specs with.   | Verify that floor page  is  shown.   |  
  |  5 |  Click the `Area` that you want to add specs with.   | Verify that area page  is  shown.   |
  |  6 |  Click the `Equipement` that you want to add specs with.   | Verify that specs page  is  shown.   |
- |  7 | Click the `Specs` text field   | Verify that you can input the specs name.   |
- |  8 | Click the `Add` button | Verify that the specs is saved in the database and displayed. |
+ |  7 |  Click the `Specs` button.   | Verify that specs page  is  shown.   |
+ |  8 | Click the `Specs` text field   | Verify that you can input the specs name.   |
+ |  9 | Click the `Add` button | Verify that the specs is saved in the database and displayed. |
  
 **Post-conditions:**  
 
