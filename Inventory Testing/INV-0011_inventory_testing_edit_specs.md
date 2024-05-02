@@ -17,6 +17,7 @@ Scenario 1
  |  7 |  Click the `Edit ` button to the specs that you want to modify.   | Verify that the Edit component is shown.   |  
  |  8 | Click the `Specs Name` text field   | Verify that you can input the equipment name.   | 
  |  9 | Click the `Save` button | Verify that the specs that you modified is saved in the database and displayed. |
+ 
 **Post-conditions:**  
 
  - The modified specs is saved and displayed
