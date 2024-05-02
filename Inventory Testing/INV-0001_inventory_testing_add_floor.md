@@ -13,7 +13,7 @@ Scenario 1
  |  3 |  In the sidebar, click `Inventory` menu item.   | Verify that invetory page is shown.   |
  |  4 |  Click the `Add floor` button.   | Verify that add flor modal box is shown shown.   |  
  |  5 |  Click the `Floor` textfield.   | Verify that you can type in the field.   |  
- |  6 | Click the `Add` button.   | Verify that the schedule is saved in the database and displayed.   |  
+ |  6 | Click the `Add` button.   | Verify that the floor is saved in the database and displayed.   |  
 
 **Post-conditions:**  
 
