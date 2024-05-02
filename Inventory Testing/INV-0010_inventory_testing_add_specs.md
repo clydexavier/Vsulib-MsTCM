@@ -19,5 +19,5 @@ Scenario 1
  
 **Post-conditions:**  
 
- - The equipment is saved and displayed
+ - The specs is saved and displayed
 
