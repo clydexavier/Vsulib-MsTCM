@@ -2,18 +2,20 @@
 
 > **Summary:** Verify that equipment is removed in sucessfully maintenance.  <br>
 
-**Preconditions:** _None_  
+**Preconditions:** Actual date is already set.  
 
 Scenario 1 
 
  | \# | Step | Expected Behavior | 
  |----|------|-------------------| 
- |  1 |      | Verify that ...   | 
- |  2 |      | Verify that ...   | 
- |  3 |      | Verify that ...   |  
+  |  1 |  Visit the web-app.    | Verify that login page is shown.  | 
+ |  2 |  Log-in using your account.   | Verify that inventory page or inspection page is shown.   |
+ |  3 |  In the sidebar, click `Schedule` menu item.   | Verify that schedule floor page is shown.   |
+ |  4 |  Choose and click a floor entity.   | Verify that the areas under that floor is shown.   |  
+ |  5 |  Choose and click an area entity.   | Verify that all equipment under that area is shown.   |  
+ |  6 |  Choose an equipment and click the `calendar` button.   | Verify that the schedule page is shown.   |
+ |  7 |  Click the `finish maintenance` button.    | Verify that  `finish maintenance` button and `actual` button is disabled |  
+ |  8 |  Check the database | Verify that the schedule has been removed in the list  | 
 
 **Post-conditions:**  
 
- - x  
- - y  
- - z  
