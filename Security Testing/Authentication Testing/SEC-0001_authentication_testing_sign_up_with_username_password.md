@@ -14,4 +14,4 @@ Scenario 1
 
 **Post-conditions:**  
 
- - User is account is created    
+ - User  account is created    
