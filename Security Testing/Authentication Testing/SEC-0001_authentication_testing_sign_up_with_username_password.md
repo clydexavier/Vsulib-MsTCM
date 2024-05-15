@@ -10,7 +10,7 @@ Scenario 1
  |----|------|-------------------| 
  |  1 |Enter Valid Username      | Verify that field is not empty and username is entered succesfully | 
  |  2 |Enter Password      | Verify that that field is not empty and password is entered succesfully   | 
- |  3 |Create      | Verify that register button is clicked and has succesfully registered   |  
+ |  3 |Create      | Verify that create button is clicked and has succesfully created account   |  
 
 **Post-conditions:**  
 
